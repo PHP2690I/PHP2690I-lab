@@ -21,7 +21,7 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
     - [Loops](./Lab2_Python_vs_R.ipynb#Loops)
     - [Functions](./Lab2_Python_vs_R.ipynb#Functions)
     - [Classes](./Lab2_Python_vs_R.ipynb#Classes)
-    - [Arrays](./Lab2_Python_vs_R.ipynb#Arrays)
+    - [Numpy Arrays](./Lab2_Python_vs_R.ipynb#numpy-arrays)
     - [Data Frames](./Lab2_Python_vs_R.ipynb#Data-Frames)
     - [Some practice](./Lab2_Python_vs_R.ipynb#Some-Practice)
       - [Binary Search](./Lab2_Python_vs_R.ipynb#Binary-Search)
