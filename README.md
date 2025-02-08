@@ -50,3 +50,10 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
   - [Some Practice](./Lab3_Classes_in_Python.ipynb#Some-Practice)
       - [Merge Two Sorted Lists](./Lab3_Classes_in_Python.ipynb#Merge-Two-Sorted-Lists)
       - [Reverse Linked List](./Lab3_Classes_in_Python.ipynb#Reverse-Linked-List)
+
+- [Lab 4 Writing Unit Tests](./Lab4_Unit_Test.ipynb)
+  - [What is a Unit Test?](./Lab4_Unit_Test.ipynb#What-is-a-Unit-Test)
+  - [A Modern Way to Write Unit Tests](./Lab4_Unit_Test.ipynb#A-Modern-Way-to-Write-Unit-Tests)
+      - [Unittest](./Lab4_Unit_Test.ipynb#Unittest)
+      - [Pytest](./Lab4_Unit_Test.ipynb#Pytest)
+  - [Something More](./Lab4_Unit_Test.ipynb#Something-More)
