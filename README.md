@@ -57,3 +57,12 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
       - [Unittest](./Lab4_Unit_Test.ipynb#Unittest)
       - [Pytest](./Lab4_Unit_Test.ipynb#Pytest)
   - [Something More](./Lab4_Unit_Test.ipynb#Something-More)
+
+- [Lab 5 First Order Methods](./Lab5_First_Order_Methods.ipynb)
+  - [Quick Review](./Lab5_First_Order_Methods.ipynb#Quick-Review)
+      - [Gradient Descent](./Lab5_First_Order_Methods.ipynb#Gradient-Descent)
+      - [Stochastic Gradient Descent](./Lab5_First_Order_Methods.ipynb#Stochastic-Gradient-Descent)
+      - [Differences](./Lab5_First_Order_Methods.ipynb#Differences)
+  - [Examples](./Lab5_First_Order_Methods.ipynb#Examples)
+      - [Basic Implementation](./Lab5_First_Order_Methods.ipynb#Basic-Implementation)
+      - [Real-world Example](./Lab5_First_Order_Methods.ipynb#Real-world-Example)
