@@ -66,3 +66,8 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
   - [Examples](./Lab5_First_Order_Methods.ipynb#Examples)
       - [Basic Implementation](./Lab5_First_Order_Methods.ipynb#Basic-Implementation)
       - [Real-world Example](./Lab5_First_Order_Methods.ipynb#Real-world-Example)
+
+- [Lab 6 More Practice Writing Iterative Algorithms](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb)
+    - [Coordinate descent for LASSO](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#Coordinate-descent-for-LASSO)
+    - [Powells Method](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#Powells-Method)
+    - [K-Means Clustering](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#K-Means-Clustering)
