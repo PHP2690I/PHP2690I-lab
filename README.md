@@ -71,3 +71,8 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
     - [Coordinate descent for LASSO](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#Coordinate-descent-for-LASSO)
     - [Powells Method](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#Powells-Method)
     - [K-Means Clustering](./Lab6_More_Practice_Writing_Iterative_Algorithms.ipynb#K-Means-Clustering)
+
+- [Lab 8 Local Search Algorithms](./Lab8_local_search_algorithms.ipynb)
+  - [Hill Climbing](./Lab8_local_search_algorithms.ipynb#Hill-climbing)
+  - [K-Median Clustering](./Lab8_local_search_algorithms.ipynb#K-Median-Clustering)
+  - [Genetic Algorithm](./Lab8_local_search_algorithms.ipynb#Genetic-Algorithm)
