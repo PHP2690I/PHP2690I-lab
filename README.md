@@ -76,3 +76,7 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
   - [Hill Climbing](./Lab8_local_search_algorithms.ipynb#Hill-climbing)
   - [K-Median Clustering](./Lab8_local_search_algorithms.ipynb#K-Median-Clustering)
   - [Genetic Algorithm](./Lab8_local_search_algorithms.ipynb#Genetic-Algorithm)
+
+- [Lab9: Intro to SCIP](./Lab9_Intro_to_SCIP.ipynb)
+  - [Example: Factory Production Optimization](./Lab9_Intro_to_SCIP.ipynb#Example:-Factory-Production-Optimization)
+  - [Example: Investment Portfolio Optimization](./Lab9_Intro_to_SCIP.ipynb#Example:-Investment-Portfolio-Optimization)
