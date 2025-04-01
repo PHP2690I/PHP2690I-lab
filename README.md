@@ -80,3 +80,7 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
 - [Lab9: Intro to SCIP](./Lab9_Intro_to_SCIP.ipynb)
   - [Example: Factory Production Optimization](./Lab9_Intro_to_SCIP.ipynb#Example:-Factory-Production-Optimization)
   - [Example: Investment Portfolio Optimization](./Lab9_Intro_to_SCIP.ipynb#Example:-Investment-Portfolio-Optimization)
+
+- [Lab 11: Linear Programming in SCIP](./Lab11_Linear_programming_in_SCIP.ipynb)
+  - [Ev Charging Station Optimization](Lab11_Linear_programming_in_SCIP.ipynb#EV-Charging-Station-Optimization)
+  - [Disaster Relief Logistics Optimization](Lab11_Linear_programming_in_SCIP.ipynb#Disaster-Relief-Logistics-Optimization)
