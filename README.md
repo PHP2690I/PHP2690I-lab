@@ -84,3 +84,8 @@ Welcome to PHP2690I lab repository. This repository contains the lab materials f
 - [Lab 11: Linear Programming in SCIP](./Lab11_Linear_programming_in_SCIP.ipynb)
   - [Ev Charging Station Optimization](Lab11_Linear_programming_in_SCIP.ipynb#EV-Charging-Station-Optimization)
   - [Disaster Relief Logistics Optimization](Lab11_Linear_programming_in_SCIP.ipynb#Disaster-Relief-Logistics-Optimization)
+
+- [Lab 13: Integer and Nonlinear Programming](./Lab13_Integer_and_nonlinear_programming.ipynb)
+  - [Example 1: Portfolio Optimization with Return and Budget Constraints](./Lab13_Integer_and_nonlinear_programming.ipynb#example-1-portfolio-optimization-with-return-and-budget-constraints)
+  - [Example 2: Logistic Regression with L2 Regularization and Norm Constraint](./Lab13_Integer_and_nonlinear_programming.ipynb#example-2-logistic-regression-with-l2-regularization-and-norm-constraint)
+  - [Example 3: Constrained Rosenbrock Function](./Lab13_Integer_and_nonlinear_programming.ipynb#example-3-constrained-rosenbrock-function)
